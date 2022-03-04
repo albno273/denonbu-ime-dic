@@ -1,10 +1,10 @@
-**This repo is inspired by [nijisanji-ime-dic](git@github.com:albno273/denonbu-ime-dic.git)!**
+**This repo is inspired by [nijisanji-ime-dic](https://github.com/Umichang/nijisanji-ime-dic)!**
 
 # denonbu-ime-dic
 
 Microsoft IME などで利用することを想定した「電音部」関連用語の用語辞書です。
 
-このコンテンツはファンメイドコンテンツです。ファンメイドコンテンツポリシー(<https://denonbu.jp/guidelines>)のもと制作されています。
+**このコンテンツはファンメイドコンテンツです。ファンメイドコンテンツポリシー(<https://denonbu.jp/guidelines>)のもと制作されています。**
 
 ## About
 
@@ -28,20 +28,29 @@ Microsoft IME などで利用することを想定した「電音部」関連用
 
 ### Windows / Microsoft IME, Google IME
 
-1. 最新版を「名前をつけて保存」→ <https://raw.githubusercontent.com/albno273/denonbu-ime-dic/master/main.txt>
+1. 最新版を「名前をつけて保存」
+    - <https://raw.githubusercontent.com/albno273/denonbu-ime-dic/master/characters.txt>
+    - <https://raw.githubusercontent.com/albno273/denonbu-ime-dic/master/songs.txt>
+    - <https://raw.githubusercontent.com/albno273/denonbu-ime-dic/master/world.txt>
 1. IME にインポート
 
 ### macOS default IME
 
-1. 最新版を「名前をつけて保存」→ <https://raw.githubusercontent.com/albno273/denonbu-ime-dic/master/main.plist>
+1. 最新版を「名前をつけて保存」
+    - <https://raw.githubusercontent.com/albno273/denonbu-ime-dic/master/characters.plist>
+    - <https://raw.githubusercontent.com/albno273/denonbu-ime-dic/master/songs.plist>
+    - <https://raw.githubusercontent.com/albno273/denonbu-ime-dic/master/world.plist>
 1. 「システム環境設定」→「キーボード」→「ユーザ辞書」を選択
-1. ダウンロードした `dic.plist` ファイルを一覧にドロップ
+1. ダウンロードした `.plist` ファイルを一覧にドロップ
 
 ### Gboard for Android
 
 元作者様によると、不具合が出る場合があるとのことです！
 
-1. 最新版を「名前をつけて保存」→ <https://raw.githubusercontent.com/albno273/denonbu-ime-dic/master/main.zip>
+1. 最新版を「名前をつけて保存」
+    - <https://raw.githubusercontent.com/albno273/denonbu-ime-dic/master/characters.zip>
+    - <https://raw.githubusercontent.com/albno273/denonbu-ime-dic/master/songs.zip>
+    - <https://raw.githubusercontent.com/albno273/denonbu-ime-dic/master/world.zip>
 1. **ZIP ファイルを展開せず、** Gboard アプリの「単語リスト」→「日本語」でインポート
     - なお、インポートのメニューが表示されない場合もあります(詳細は不明)
 

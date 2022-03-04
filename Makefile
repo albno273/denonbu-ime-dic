@@ -7,8 +7,8 @@
 # https://github.com/Umichang/userdic-ng
 #
 
-SOURCE = characters.txt
-TARGET = characters.plist characters.zip
+SOURCE = characters.txt	songs.txt world.txt
+TARGET = characters.plist characters.zip songs.plist songs.zip world.zip world.plist
 
 .SUFFIXES: .txt .plist .zip
 

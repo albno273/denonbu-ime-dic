@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="1.0"><array>
+<dict>
+<key>phrase</key>
+<string>外神田文芸高校</string>
+<key>shortcut</key>
+<string>そとかんだぶんげいこうこう</string>
+</dict>
+<dict>
+<key>phrase</key>
+<string>神宮前参道學園</string>
+<key>shortcut</key>
+<string>じんぐうまえさんどうがくえん</string>
+</dict>
+<dict>
+<key>phrase</key>
+<string>港白金女学院</string>
+<key>shortcut</key>
+<string>みなとしろかねじょがくいん</string>
+</dict>
+<dict>
+<key>phrase</key>
+<string>帝音国際学院</string>
+<key>shortcut</key>
+<string>ていおんこくさいがくいん</string>
+</dict>
+</array></plist>

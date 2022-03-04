@@ -1,0 +1,25 @@
+!Microsoft IME Dictionary Tool
+!Version:
+!Format:WORDLIST
+!DateTime: 2022年03月05日 19:00
+
+! このファイルは MIT ライセンスです。詳細は GitHub 上のリポジトリを参照してください。
+! https://github.com/albno273/denonbu-ime-dic
+
+! このコンテンツはファンメイドコンテンツです。
+! ファンメイドコンテンツポリシー(<https://denonbu.jp/guidelines>)のもと制作されています。
+
+! 以下のリポジトリを参考に作成しています。
+! https://github.com/Umichang/nijisanji-ime-dic
+
+! 主な更新
+! ver20220305: First release!
+
+! <高校名>
+
+そとかんだぶんげいこうこう	外神田文芸高校	固有名詞	
+じんぐうまえさんどうがくえん	神宮前参道學園	固有名詞	
+みなとしろかねじょがくいん	港白金女学院	固有名詞	
+ていおんこくさいがくいん	帝音国際学院	固有名詞	
+
+! 必要そうなものがあれば順次追加します
