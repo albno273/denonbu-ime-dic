@@ -210,33 +210,33 @@
 
 ! <コンポーザー名>
 ! https://denonbu.jp/caststaff
-たくいのうえ    TAKU INOUE  人名
-いのたく    TAKU INOUE  人名
-けんもちひでふみ    ケンモチヒデフミ    人名
-でぃーしーみーじー  DC Mizey    人名
-ねこはっかー    Neko Hacker 人名
-いちのせるぽ 市瀬るぽ   人名
-ゆーしえ    YUC'e   人名
-ゆうのすけ  雄之助  人名
-あんどうひろき  安藤啓希    人名
-いしはまかける  石濱 翔 人名
-ぱーくごるふ    PARKGOLF    人名
-かきさこひかる  柿迫ヒカル  人名
-はんだあきのり  半田彬倫    人名
-ことのはうす    KOTONOHOUSE 人名    え、アタシ!?
-ばんぼっくす    banvox  人名
-はやかわひろたか    早川博隆    人名
-てんぷらいむ    TEMPLIME    人名
-もえしょっぷ    Moe Shop    人名
-きうぃ  KiWi    人名
-とむぐぐぐ  Tomggg  人名
-のる    Nor 人名
-あいおばーん    Aiobahn 人名
-すおうぱとら    周防パトラ  人名
-すねいるはうす    Snail's House 人名
-さとうたかふみ    佐藤貴文  人名
-さいき  PSYQUI  人名
-とうふびーつ    tofubeats   人名
+たくいのうえ	TAKU INOUE	人名
+いのたく	TAKU INOUE	人名
+けんもちひでふみ	ケンモチヒデフミ	人名
+でぃーしーみーじー	DC Mizey	人名
+ねこはっかー	Neko Hacker	人名
+いちのせるぽ	市瀬るぽ	人名
+ゆーしえ	YUC'e	人名
+ゆうのすけ	雄之助	人名
+あんどうひろき	安藤啓希	人名
+いしはまかける	石濱 翔	人名
+ぱーくごるふ	PARKGOLF	人名
+かきさこひかる	柿迫ヒカル	人名
+はんだあきのり	半田彬倫	人名
+ことのはうす	KOTONOHOUSE	人名	え、アタシ!?
+ばんぼっくす	banvox	人名
+はやかわひろたか	早川博隆	人名
+てんぷらいむ	TEMPLIME	人名
+もえしょっぷ	Moe Shop	人名
+きうぃ	KiWi	人名
+とむぐぐぐ	Tomggg	人名
+のる	Nor	人名
+あいおばーん	Aiobahn	人名
+すおうぱとら	周防パトラ	人名
+すねいるはうす	Snail's House	人名
+さとうたかふみ	佐藤貴文	人名
+さいき	PSYQUI	人名
+とうふびーつ	tofubeats	人名
 
 ! <From world.txt>
 ! <そもそも必要>
